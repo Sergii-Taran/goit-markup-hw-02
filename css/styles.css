@@ -36,6 +36,8 @@ button {
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
+    text-align: center;
+    text-transform: capitalize
     color: #2e2f42;
 }
 
@@ -127,6 +129,7 @@ button {
     font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
+    text-align: center;
     color: #fff;}
 
 .hero-btn {
@@ -136,6 +139,11 @@ button {
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #fff;
+}
+
+.hero-btn:hover,
+.hero-btn:focus {
+    background-color: #404BBF
 }
 
 /* ---------   --------- */
@@ -176,9 +184,13 @@ button {
    
 }
 
-.team-subtitle {}
+.team-subtitle {
+    text-align: center;
+}
 
-.team-text {}
+.team-text {
+    text-align: center;
+}
 
 /* ---------   --------- */
 /*TODO ---------  section PORTFOLIO --------- */
