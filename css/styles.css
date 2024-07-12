@@ -1,0 +1,210 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #fff;
+}
+
+ul, ol {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.page-hero,
+.page-footer {
+    background-color: #2e2f42;
+}
+
+.section-title {
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.item-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.item-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+/* ---------   --------- */
+/*TODO ---------  HEADER --------- */
+
+.page-header {}
+
+.header-nav {}
+
+.logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+
+.header-logo .logo-part {
+    color: #2e2f42;
+}
+
+.footer-logo .logo-part {
+    color: #f4f4fd;
+}
+
+.logo-part {}
+
+.nav-list {}
+
+.nav-item {}
+
+.nav-link {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+
+.contacts {
+    font-style: normal;
+}
+
+.contacts-list {}
+
+.contacts-item {}
+
+.contacts-link {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.nav-link:hover,
+.nav-link:focus,
+.contacts-link:hover,
+.contacts-link:focus {
+    color: #404bbf;
+}
+
+/* ---------   --------- */
+/*TODO ---------  section HERO --------- */
+
+.page-hero {
+    
+}
+
+.hero-title {
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    color: #fff;}
+
+.hero-btn {
+    background-color: #4d5ae5;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #fff;
+}
+
+/* ---------   --------- */
+/*TODO ---------  section FEATURES --------- */
+
+.page-features {}
+
+.features-title {}
+
+.features-list {}
+
+.features-item {}
+
+.features-subtitle {
+    
+}
+
+.features-text {
+    
+}
+
+/* ---------   --------- */
+/*TODO ---------  section TEAM --------- */
+
+.page-team {
+    background-color: #f4f4fd;
+}
+
+.team-title {}
+
+.team-list {}
+
+.team-item {
+    background-color: #fff;
+}
+
+.team-image {
+   
+}
+
+.team-subtitle {}
+
+.team-text {}
+
+/* ---------   --------- */
+/*TODO ---------  section PORTFOLIO --------- */
+
+.page-portfolio {}
+
+.portfolio-title {}
+
+.portfolio-list {}
+
+.portfolio-item {}
+
+.portfolio-image {}
+
+.portfolio-subtitle {}
+
+.portfolio-text {}
+
+/* ---------   --------- */
+/*TODO ---------  FOOTER --------- */
+
+.page-footer {
+   
+}
+
+.footer-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #f4f4fd;
+}
+
+/* ---------   --------- */
