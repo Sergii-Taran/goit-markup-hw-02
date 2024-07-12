@@ -16,17 +16,6 @@ button {
     cursor: pointer;
 }
 
-/* .visually-hidden {
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    margin: -1px;
-    border: 0;
-    padding: 0;
-    white-space: nowrap;
-    overflow: hidden;
-} */
-
 .page-hero,
 .page-footer {
     background-color: #2e2f42;
@@ -184,10 +173,7 @@ button {
    
 }
 
-.team-subtitle {
-    text-align: center;
-}
-
+.team-subtitle,
 .team-text {
     text-align: center;
 }
