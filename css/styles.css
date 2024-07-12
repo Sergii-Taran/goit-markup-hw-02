@@ -32,13 +32,15 @@ button {
     background-color: #2e2f42;
 }
 
-.section-title {    
+/* text-transform: capitalize */
+
+.section-title {
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
-    text-transform: capitalize
     color: #2e2f42;
+    text-transform: capitalize
 }
 
 .item-title {
