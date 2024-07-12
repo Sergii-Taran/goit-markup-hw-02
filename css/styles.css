@@ -16,7 +16,7 @@ button {
     cursor: pointer;
 }
 
-.visually-hidden {
+/* .visually-hidden {
     position: absolute;
     width: 1px;
     height: 1px;
@@ -25,14 +25,14 @@ button {
     padding: 0;
     white-space: nowrap;
     overflow: hidden;
-}
+} */
 
 .page-hero,
 .page-footer {
     background-color: #2e2f42;
 }
 
-.section-title {
+.section-title {    
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
