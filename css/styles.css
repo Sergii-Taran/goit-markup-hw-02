@@ -12,6 +12,10 @@ a {
     text-decoration: none;
 }
 
+button {
+    cursor: pointer;
+}
+
 .visually-hidden {
     position: absolute;
     width: 1px;
